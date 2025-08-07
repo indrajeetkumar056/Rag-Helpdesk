@@ -1,0 +1,14 @@
+# Twilio Configuration
+TWILIO_ACCOUNT_SID=AC24a60e345ce5d2f3e9732636da579825
+TWILIO_AUTH_TOKEN=9e28105a96b901196b5596ec24dec564
+TWILIO_PHONE_NUMBER=+14155238886
+
+# Flask Configuration
+FLASK_ENV=development
+FLASK_DEBUG=True
+
+# Database Configuration
+DATABASE_URL=sqlite:///db.sqlite3
+
+# LangChain Configuration
+OLLAMA_BASE_URL=http://localhost:11434 
